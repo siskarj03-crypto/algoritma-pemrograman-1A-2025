@@ -5,6 +5,7 @@ panjang = float(input("Masukkan nilai panjang "))
 lebar = float(input("Masukkan nilai lebar "))
 tinggi  = float(input("masukkan nilai tinggi "))
 
+print(type(panjang))
 # menghitung volume dan luas
 luas = 2*(panjang*lebar + panjang*tinggi + lebar*tinggi)
 volume = panjang*lebar*tinggi

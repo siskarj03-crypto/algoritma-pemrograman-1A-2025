@@ -13,4 +13,4 @@ pajak = total_harga*0.1
 print("pajak", pajak)
 
 total_bayar = total_harga+pajak
-print(f"Halim harus membayar ke kasir setelah diberi diskon sebesar {pajak} adalah: {total_bayar}")
+print("Halim harus membayar ke kasir setelah diberi diskon sebesar",pajak, "adalah:", total_bayar)
