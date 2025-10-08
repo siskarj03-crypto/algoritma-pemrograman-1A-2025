@@ -28,6 +28,8 @@ if tarif > 20000:
     print("Peringatan: Tarif parkir melebihi batas maksimal harian sebesar Rp20.000")
 else:
     print("Total tarif adalah: Rp", tarif)
+    
+print("="*50)
 
 
 
